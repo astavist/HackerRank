@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ab6dd0-d26c-4c60-a5f4-21317e5cd64e" name="Changes" comment="Added stinstout solutions">
+    <list default="true" id="81ab6dd0-d26c-4c60-a5f4-21317e5cd64e" name="Changes" comment="Added JavaStringReverse">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/SAMET/Desktop/microservices-t2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SAMET/Desktop/HackerRank&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;me.rerere.discordij.setting.DiscordIJConfigurableProject&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMET\Desktop\HackerRank\java" />
+      <recent name="C:\Users\SAMET\Desktop\HackerRank" />
+      <recent name="C:\Users\SAMET\Desktop\HackerRank\java\src\main\java" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.St_in_St_out_2">
     <configuration name="JavaLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaLoops" />
@@ -94,6 +103,20 @@
       <workItem from="1680958377377" duration="343000" />
       <workItem from="1684266473670" duration="1113000" />
       <workItem from="1684341169985" duration="10000" />
+      <workItem from="1685823229336" duration="1342000" />
+      <workItem from="1685864020552" duration="616000" />
+      <workItem from="1685870737199" duration="620000" />
+      <workItem from="1685987760720" duration="54000" />
+      <workItem from="1686063382415" duration="260000" />
+      <workItem from="1686145299889" duration="1096000" />
+      <workItem from="1686147789978" duration="8000" />
+      <workItem from="1691945354817" duration="669000" />
+      <workItem from="1692122470092" duration="299000" />
+      <workItem from="1692190032173" duration="1378000" />
+      <workItem from="1692203367841" duration="648000" />
+      <workItem from="1692297152607" duration="478000" />
+      <workItem from="1692383284755" duration="470000" />
+      <workItem from="1693046808019" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="deneme">
       <created>1675725068947</created>
@@ -116,7 +139,77 @@
       <option name="project" value="LOCAL" />
       <updated>1684267582483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modify files">
+      <created>1685823330107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685823330107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added JavaMethodOverriding">
+      <created>1685823475184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685823475184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added output-formatting">
+      <created>1685824521123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685824521123</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added end-of-file">
+      <created>1685824535562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685824535562</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added static_initializer_block">
+      <created>1685987806615</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685987806615</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added intToString">
+      <created>1686145794917</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686145794917</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added intToString">
+      <created>1692122624887</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692122624887</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added JavaSubstring">
+      <created>1692203420074</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692203420074</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added JavaSubstringComparisons">
+      <created>1692297610320</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692297610321</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added JavaStringReverse">
+      <created>1692383360456</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692383360456</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +230,15 @@
     <MESSAGE value="deneme" />
     <MESSAGE value="solutions" />
     <MESSAGE value="Added stinstout solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added stinstout solutions" />
+    <MESSAGE value="Modify files" />
+    <MESSAGE value="Added JavaMethodOverriding" />
+    <MESSAGE value="Added output-formatting" />
+    <MESSAGE value="Added end-of-file" />
+    <MESSAGE value="Added static_initializer_block" />
+    <MESSAGE value="Added intToString" />
+    <MESSAGE value="Added JavaSubstring" />
+    <MESSAGE value="Added JavaSubstringComparisons" />
+    <MESSAGE value="Added JavaStringReverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JavaStringReverse" />
   </component>
 </project>
