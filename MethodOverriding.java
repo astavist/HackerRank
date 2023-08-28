@@ -1,3 +1,5 @@
+package main.java.org.example;
+
 public class MethodOverriding {
     static class Sports {
         String getName() {

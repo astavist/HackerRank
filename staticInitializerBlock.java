@@ -1,3 +1,5 @@
+package main.java.org.example;
+
 public class Solution {
 
     static int B,H;

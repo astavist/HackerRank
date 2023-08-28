@@ -1,3 +1,5 @@
+package main.java.org.example;
+
 import java.util.Scanner;
 
 public class St_in_St_out_2 {
