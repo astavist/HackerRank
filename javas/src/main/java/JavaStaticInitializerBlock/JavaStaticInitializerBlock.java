@@ -1,6 +1,8 @@
-package main.java.org.example;
+package JavaStaticInitializerBlock;
 
-public class Solution {
+import java.util.Scanner;
+
+public class JavaStaticInitializerBlock {
 
     static int B,H;
     static boolean flag;

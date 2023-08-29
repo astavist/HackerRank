@@ -1,25 +1,21 @@
-package main.java.org.example;
+package JavaStringIntroduction;
 
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class JavaStringIntroduction {
 
     public static void main(String[] args) {
 
-        /* Save input */
         Scanner scan = new Scanner(System.in);
         String A = scan.next();
         String B = scan.next();
         scan.close();
 
-        /* Sum lengths */
         System.out.println(A.length() + B.length());
 
-        /* Compare lexicographical ordering */
         System.out.println(A.compareTo(B) > 0 ? "Yes" : "No");
 
-        /* Print the Strings in desired format */
         System.out.println(capFirstLetter(A) + " " + capFirstLetter(B));
     }
 

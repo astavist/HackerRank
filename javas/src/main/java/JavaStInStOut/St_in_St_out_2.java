@@ -1,8 +1,8 @@
-package main.java.org.example;
+package JavaStInStOut;
 
 import java.util.Scanner;
 
-public class St_in_St_out_2 {
+class St_in_St_out_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();

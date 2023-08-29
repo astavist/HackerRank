@@ -1,7 +1,7 @@
-package main.java.org.example;
+package intToString;
 
 import java.util.*;
-public class Solution {
+class intToString {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);

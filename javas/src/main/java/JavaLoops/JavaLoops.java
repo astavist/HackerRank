@@ -1,4 +1,4 @@
-package main.java.org.example;
+package JavaLoops;
 
 import java.util.Scanner;
 

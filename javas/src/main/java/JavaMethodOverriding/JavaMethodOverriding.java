@@ -1,6 +1,6 @@
-package main.java.org.example;
+package JavaMethodOverriding;
 
-public class MethodOverriding {
+class JavaMethodOverriding {
     static class Sports {
         String getName() {
             return "Generic Sports";

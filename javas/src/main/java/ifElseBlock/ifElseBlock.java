@@ -1,4 +1,4 @@
-package main.java.org.example;
+package ifElseBlock;
 
 import java.util.Scanner;
 

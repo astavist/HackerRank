@@ -1,8 +1,8 @@
-package main.java.org.example;
+package JavaLoops;
 
 import java.util.Scanner;
 
-public class JavaLoopsTwo {
+class JavaLoopsTwo {
     public static void main(String[] args) {
         int a=1,b=1,c,n=1;
         Scanner input = new Scanner(System.in);

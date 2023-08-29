@@ -1,14 +1,12 @@
-package main.java.org.example;
+package JavaAnagrams;
 
 import java.util.Scanner;
-public class JavaAnagrams {
+class JavaAnagrams {
     static boolean isAnagram(String a, String b) {
-
         a=a.toUpperCase();
         b=b.toUpperCase();
         boolean ret = false;
         StringBuilder c= new StringBuilder(b);
-
         if(a.length()==b.length()){
             for(int i=0; i<a.length();i++){
                 for(int j=0; j<c.length();j++){
@@ -19,13 +17,10 @@ public class JavaAnagrams {
                             break;
                         }
                         break;
-
                     }
-
                 }
             }
-        }return ret;
-
+        }   return ret;
     }
 
     public static void main(String[] args) {

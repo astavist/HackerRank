@@ -1,8 +1,8 @@
-package main.java.org.example;
+package JavaStringReverse;
 
 import java.util.Scanner;
 
-public class Solution {
+public class JavStringReverse {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

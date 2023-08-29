@@ -1,9 +1,8 @@
-package main.java.org.example;
+package endOfFile;
 
-import java.io.*;
 import java.util.*;
 
-public class Solution {
+class endOfFile {
 
     public static void main(String[] args) {
         int count = 1;

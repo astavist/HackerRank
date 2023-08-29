@@ -1,4 +1,4 @@
-package main.java.org.example;
+package JavaSubstring;
 
 import java.io.*;
 import java.util.*;
@@ -6,7 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+class JavaSubstring {
 
     public static List<Character> convertStringToCharList(String S) {
         List<Character> chars = new ArrayList<>();
