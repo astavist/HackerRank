@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ab6dd0-d26c-4c60-a5f4-21317e5cd64e" name="Changes" comment="Edit Files">
-      <change afterPath="$PROJECT_DIR$/.idea/discord-ij.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavStringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavStringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLoopsTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLoopsTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaMethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStringIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStringIntroduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSubstingComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSubstingComparisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/St_inSt_out.java" beforeDir="false" afterPath="$PROJECT_DIR$/St_inSt_out.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/St_in_St_out_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/St_in_St_out_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/end-of-file.java" beforeDir="false" afterPath="$PROJECT_DIR$/end-of-file.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifElseBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/ifElseBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/intToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output-formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/output-formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/staticInitializerBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,46 +31,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SAMET/Desktop/denemeler&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;me.rerere.discordij.setting.DiscordIJConfigurableProject&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/SAMET/Desktop/HackerRank",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "me.rerere.discordij.setting.DiscordIJConfigurableProject",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMET\Desktop\HackerRank\javas\src\main\java" />
+      <recent name="C:\Users\SAMET\Desktop\HackerRank\Java\src\main" />
+      <recent name="C:\Users\SAMET\Desktop\HackerRank\Java\src\main\java" />
       <recent name="C:\Users\SAMET\Desktop\HackerRank" />
       <recent name="C:\Users\SAMET\Desktop\HackerRank\src\main\java\org\example" />
-      <recent name="C:\Users\SAMET\Desktop\HackerRank\src\main\java\org" />
-      <recent name="C:\Users\SAMET\Desktop\HackerRank\src\main\java" />
-      <recent name="C:\Users\SAMET\Desktop\HackerRank\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaAnagrams">
+  <component name="RunManager" selected="Application.JavaStringTokens">
     <configuration name="JavaAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAnagrams" />
-      <module name="Javas" />
+      <option name="MAIN_CLASS_NAME" value="JavaAnagrams.JavaAnagrams" />
+      <module name="javaSolutions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.Solution" />
-      <module name="HackerRank" />
+    <configuration name="JavaStringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStringTokens.JavaStringTokens" />
+      <module name="javaSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.*" />
+          <option name="PATTERN" value="JavaStringTokens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaStringTokens" />
         <item itemvalue="Application.JavaAnagrams" />
         <item itemvalue="Application.org.example.JavaAnagrams" />
         <item itemvalue="Application.main.java.org.example.JavaAnagrams" />
         <item itemvalue="Application.main.java.org.JavaAnagrams" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +156,8 @@
       <workItem from="1692383284755" duration="470000" />
       <workItem from="1693046808019" duration="713000" />
       <workItem from="1693243740792" duration="1975000" />
+      <workItem from="1693315828095" duration="1085000" />
+      <workItem from="1693325267255" duration="3446000" />
     </task>
     <task id="LOCAL-00001" summary="deneme">
       <created>1675725068947</created>
@@ -279,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693245720560</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Edit Files">
+      <created>1693316734157</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693316734157</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
